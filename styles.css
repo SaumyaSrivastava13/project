@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+div{
+    display:flex;
+    gap: 250px;
+}
+#abc{
+    display:flex;
+    list-style:none;
+    gap:20px;
+    color:white
+}
+#bcd{
+    display:flex;
+    list-style:none;
+    gap:10px;
+   
+}
+h1{
+    color:white;
+    text-align:center;
+
+}
+#sau{
+    color:bisque;
+    text-align:center;
+
+}
